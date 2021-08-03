@@ -1,0 +1,9 @@
+banquo ** with a scale of 17. Total found: 34
+cloud * with a scale of 0. Total found: 1
+deed ** with a scale of 7. Total found: 14
+doctor ** with a scale of 4. Total found: 8
+fit ** with a scale of 2. Total found: 4
+friends ** with a scale of 5. Total found: 10
+intent * with a scale of 0. Total found: 1
+prince ** with a scale of 1. Total found: 2
+python  with a scale of 0. Total found: 0
