@@ -9,7 +9,11 @@ For the purpose of this assignment a “word” should be regarded as being a se
 If your program uses the exit function to terminate the program if a file cannot be opened you should include the header file cstdlib; some compilers recognise exit without the inclusion of this file, but some do not.
 
 Bar graphs show visually the frequencies of certain items, the widths or heights of the bars being proportional to the frequencies. Here is a bar graph of the count of some words from the next paragraph above, converted to lower case.
+
 the ********** 10
+
 if ** 2
+
 chart ******* 2
+
 If there are many occurrences of one or more word, the chart will need scaling, using one star for every n occurrences. If you do this, your output must indicate the scaling and the actual numbers should be shown alongside the bars, as seen above. To gain maximum marks the scaling factor should be based on the word with the largest number of occurrences. The word file may contain words that do not occur in the text; these should be distinguishable from words that do not, so a word that appears in the text must have at least one asterisk in the chart – hence a simple integer division by the scaling factor will not be sufficient.
