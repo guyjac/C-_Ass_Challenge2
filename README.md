@@ -1,4 +1,4 @@
-# C++ Assignment 2
+# C++ Assignment 1 ex2
 An assignment completed using C++.
 
 The program will read the file, generate some information about it, and provide output both to the screen and to a file (whose name should be provided by the user).
